@@ -11,7 +11,7 @@
 
 ## 🚀 Portal online
 
-**Portal jest dostępny pod adresem:** [https://tomyc.github.io/Meteopatia_MKDocs ](https://tomyc.github.io/Meteopatia_MKDocs )
+**Portal jest dostępny pod adresem:** [https://tomyc.github.io/Meteopatia_MKDocs](https://tomyc.github.io/Meteopatia_MKDocs)
 
 ## 📋 Zawartość portalu
 
