@@ -1,0 +1,27 @@
+markdown_extensions:
+- admonition
+- codehilite
+- toc
+nav:
+- Strona główna: index.md
+- Czym jest meteoropatia: meteoropatia.md
+- Sposoby leczenia: sposoby-leczenia.md
+- Odżywianie: odzywienie.md
+- Ćwiczenia: cwiczenia.md
+- Higiena życia: higiena-zycia.md
+- Narzędzia wspierające: narzedzia.md
+- Adaptacje sezonowe: adaptacje-sezonowe.md
+- Protokoły awaryjne: protokoly-awaryjne.md
+site_description: Naukowe podejście do zarządzania wrażliwością meteorologiczną
+site_name: Meteoropatia - Kompleksowy Przewodnik
+theme:
+  features:
+  - navigation.tabs
+  - navigation.sections
+  - navigation.expand
+  - navigation.top
+  name: material
+  palette:
+    accent: light-blue
+    primary: blue
+    scheme: default

@@ -1,0 +1,66 @@
+# FEPK Documentation - Python Requirements
+# Plik requirements.txt zawiera wszystkie biblioteki Python potrzebne do uruchomienia
+# dokumentacji MkDocs dla projektu FEPK
+
+# === CORE MKDOCS ===
+# Główny generator dokumentacji
+mkdocs>=1.5.0,<2.0.0
+
+# Material Design theme dla MkDocs
+mkdocs-material>=9.4.0,<10.0.0
+
+# === PODSTAWOWE ROZSZERZENIA MARKDOWN ===
+# Rozszerzenia dla lepszego formatowania Markdown
+# Uwaga: pymdown-extensions może wymagać dodatkowej konfiguracji
+# pymdown-extensions>=10.0.0,<11.0.0
+
+# === PRZYDATNE PLUGINY (OPCJONALNE) ===
+# Data ostatniej modyfikacji na podstawie Git
+# mkdocs-git-revision-date-localized-plugin>=1.2.0,<2.0.0
+
+# Minifikacja HTML, CSS i JavaScript
+# mkdocs-minify-plugin>=0.7.0,<1.0.0
+
+# Przekierowania URL
+# mkdocs-redirects>=1.2.0,<2.0.0
+
+# === DODATKOWE NARZĘDZIA (OPCJONALNE) ===
+# Walidacja linków
+# mkdocs-htmlproofer-plugin>=0.10.0,<1.0.0
+
+# Generowanie sitemap
+# mkdocs-sitemap>=1.2.0,<2.0.0
+
+# RSS feed
+# mkdocs-rss-plugin>=1.5.0,<2.0.0
+
+# === DEVELOPMENT TOOLS ===
+# Narzędzia deweloperskie (opcjonalne)
+# watchdog>=2.1.0,<3.0.0  # Lepsze monitorowanie plików
+
+# === INSTRUKCJE INSTALACJI ===
+# 
+# Podstawowa instalacja (minimalna):
+# pip install mkdocs mkdocs-material
+#
+# Pełna instalacja z tego pliku:
+# pip install -r requirements.txt
+#
+# Instalacja step-by-step (jeśli występują problemy):
+# pip install mkdocs
+# pip install mkdocs-material
+# pip install mkdocs-git-revision-date-localized-plugin
+# 
+# === WERSJE PYTHON ===
+# Wymaga Python 3.8+
+# Zalecane: Python 3.9 lub nowszy
+#
+# === TESTOWANIE INSTALACJI ===
+# mkdocs --version
+# mkdocs serve
+#
+# === ROZWIĄZYWANIE PROBLEMÓW ===
+# Jeśli występują błędy z rozszerzeniami, skomentuj problematyczne linie
+# i zainstaluj podstawowe pakiety:
+# mkdocs
+# mkdocs-material
