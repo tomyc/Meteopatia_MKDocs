@@ -239,9 +239,6 @@ Bibliografia zawiera **86 pozycji** źródłowych, w tym:
 - **15 raportów** organizacji medycznych i zdrowotnych
 - **8 przewodników** klinicznych i wytycznych
 - **7 narzędzi** technologicznych i aplikacji
-
-Wszystkie źródła zostały zweryfikowane pod kątem wiarygodności i aktualności informacji medycznych dotyczących meteoropatii i zarządzania wrażliwością meteorologiczną.
-
 ---
 
 **Ostatnia aktualizacja:** 15 lipca 2025
