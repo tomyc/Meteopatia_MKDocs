@@ -6,25 +6,50 @@ Meteoropatia to zjawisko dotykające **25-40% populacji światowej**, charaktery
 
 ## Co znajdziesz w tym przewodniku?
 
-### 🧠 Podstawy naukowe
+### 🧠 [Czym jest meteoropatia](meteoropatia.md)
 - Mechanizmy neurofizjologiczne wrażliwości meteorologicznej
 - Jak układ przedsionkowy funkcjonuje jako biologiczny barometr
 - Wpływ zmian ciśnienia barometrycznego na organizm
 
-### 💊 Metody leczenia oparte na dowodach
+### 💊 [Sposoby zmniejszenia dolegliwości](sposoby-leczenia.md)
 - Interwencje niefarmakologiczne z udowodnioną skutecznością
 - Protokoły ćwiczeń fizycznych i technik oddychania
 - Strategie żywieniowe przeciwzapalne
 
-### 📅 Praktyczne rozwiązania
-- Szczegółowe harmonogramy dnia z uwzględnieniem wrażliwości meteorologicznej
-- Adaptacje sezonowe dla polskiego klimatu
-- Protokoły awaryjne dla ekstremalnych warunków pogodowych
+### 🥗 [Odżywianie przeciwzapalne](odzywienie.md)
+- Kompleksowy plan żywieniowy dla meteoropatów
+- Produkty przeciwzapalne i ich właściwości
+- Protokoły żywieniowe podczas zmian pogodowych
 
-### 📱 Nowoczesne narzędzia
+### 🏃 [Ćwiczenia fizyczne](cwiczenia.md)
+- Hipoalgezja wywołana ćwiczeniami
+- Szczegółowe harmonogramy treningowe
+- Adaptacje dla różnych warunków pogodowych
+
+### 🛏️ [Higiena życia](higiena-zycia.md)
+- Optymalizacja snu dla wrażliwości meteorologicznej
+- Kontrola środowiska domowego
+- Zarządzanie stresem codziennym
+
+### 📱 [Narzędzia wspierające](narzedzia.md)
 - Aplikacje do monitorowania warunków atmosferycznych
 - Systemy ostrzegania przed zmianami pogody
 - Technologie wspierające zarządzanie objawami
+
+### 🌦️ [Adaptacje sezonowe](adaptacje-sezonowe.md)
+- Szczegółowe harmonogramy dnia z uwzględnieniem wrażliwości meteorologicznej
+- Adaptacje sezonowe dla polskiego klimatu
+- Strategie dla różnych pór roku
+
+### 🚨 [Protokoły awaryjne](protokoly-awaryjne.md)
+- Protokoły awaryjne dla ekstremalnych warunków pogodowych
+- Zarządzanie kryzysowe podczas gwałtownych zmian pogody
+- Systemy wczesnego ostrzegania
+
+### 📚 [Źródła literaturowe](zrodla-literaturowe.md)
+- Bibliografia naukowa
+- Badania kliniczne wspierające zalecenia
+- Dodatkowe materiały do pogłębienia wiedzy
 
 ## Kluczowe fakty o meteoropatii
 
@@ -50,11 +75,11 @@ Układ przedsionkowy funkcjonuje jako biologiczny barometr, wykrywając zmiany j
 
 ## Jak korzystać z tego przewodnika
 
-1. **Zacznij od podstaw** - przeczytaj sekcję o mechanizmach meteoropatii
-2. **Oceń swoje objawy** - skorzystaj z narzędzi diagnostycznych
-3. **Wybierz odpowiednie interwencje** - dopasuj protokoły do swoich potrzeb
-4. **Monitoruj postępy** - używaj zalecanych aplikacji i narzędzi
-5. **Dostosuj sezonowo** - adaptuj strategie do pory roku
+1. **[Zacznij od podstaw](meteoropatia.md)** - przeczytaj sekcję o mechanizmach meteoropatii
+2. **[Oceń swoje objawy](meteoropatia.md#objawy-kliniczne-meteoropatii)** - skorzystaj z narzędzi diagnostycznych
+3. **[Wybierz odpowiednie interwencje](sposoby-leczenia.md)** - dopasuj protokoły do swoich potrzeb
+4. **[Monitoruj postępy](narzedzia.md)** - używaj zalecanych aplikacji i narzędzi
+5. **[Dostosuj sezonowo](adaptacje-sezonowe.md)** - adaptuj strategie do pory roku
 
 !!! tip "Ważne"
     Ten przewodnik zawiera informacje oparte na najnowszych badaniach naukowych i może być wykorzystywany jako uzupełnienie, ale nie zastępstwo profesjonalnej opieki medycznej. W przypadku poważnych objawów zawsze skonsultuj się z lekarzem.
